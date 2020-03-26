@@ -1,2 +1,2 @@
 # propertyTool
-A tool for analysing property deals
+Web scraper for property listings
